@@ -1,0 +1,7 @@
+﻿{
+    // Generic Mod Config Menu UI
+    "config.custom-skill-page.name": "Page de compétence personnalisée",
+    "config.custom-skill-page.tooltip": "Afficher ou non la page de compétences personnalisées.\nCela déplacera le portefeuille afin qu'il y ait de la place pour plus de compétences.",
+    "config.support-all-professions-mod.name": "Soutien à toutes les professions Mod",
+    "config.support-all-professions-mod.tooltip": "Lorsque toutes les professions sont installées, s'il faut appliquer automatiquement les professions personnalisées enregistrées via SpaceCore lorsque leur niveau est atteint."
+}

@@ -1,0 +1,11 @@
+{
+  "Format": "1.3",
+  "Changes": [
+  
+	   // Grass Path
+	   {  "Action": "Load",
+	   "Target": "TerrainFeatures/Flooring",
+	   "FromFile": "assets/flooring_{{season}}.png",
+	   },
+    ]
+}

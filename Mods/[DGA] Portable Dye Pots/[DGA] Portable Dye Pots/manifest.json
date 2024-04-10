@@ -1,0 +1,13 @@
+{
+    "Name": "Portable Dye Pots",
+    "Author": "CopperSun",
+    "Version": "1.0.0",
+    "Description": "Après qu'Emily vous ait envoyé une machine à coudre, procurez-vous un kit de teinture à domicile.",
+    "UniqueID": "CopperSun.DyePots",
+    "ContentPackFor": { "UniqueID": "spacechase0.DynamicGameAssets" },
+    "UpdateKeys": ["Nexus:10200"],
+
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.23.0"
+  }
+  

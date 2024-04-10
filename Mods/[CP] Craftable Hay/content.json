@@ -1,0 +1,12 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "Hay": "262 2/Home/178/false/Farming 1"
+      }
+    }
+  ]
+}

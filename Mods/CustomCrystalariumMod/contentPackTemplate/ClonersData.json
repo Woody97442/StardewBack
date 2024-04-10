@@ -1,0 +1,16 @@
+﻿[
+    {
+        "Name": "Grave Stone", //Nom du cloneur. Requis.
+        "EnableCloneEveryObject": true, //Si true, le cloneur pourra cloner chaque objet. La valeur par défaut est false.
+        "DefaultCloningTime": 1300, // Utilisation du temps de clonage pour les objets non définis lorsque l'activation du clonage de chaque objet est vraie. La valeur par défaut est 5000.
+        "GetObjectBackOnChange": true, // Si vrai, vous récupérerez l'objet que vous avez placé auparavant du cloneur lorsque vous placez un nouvel objet ou retirez le cloneur du sol. La valeur par défaut est false.
+        "GetObjectBackImmediately": false, // Si vrai, le cloneur vous permettra de récupérer immédiatement l'élément que vous avez replacé. De plus, l'option GetObjectBackOnChange sera ignorée. La valeur par défaut est false.
+        "BlockChange": false, // Si vrai, vous ne pourrez pas modifier l'objet à l'intérieur. Vous devrez retirer le cloneur du sol. La valeur par défaut est false.
+        "UsePfmForInput": false, // Si vrai, il ne vous permettra pas de placer l'objet répertorié sur CloningData dans le cloneur. Vous aurez besoin de PFM pour créer des règles d'entrée, et les données de clonage seront utilisées pour redémarrer la machine lorsque la sortie sera récupérée.
+        "CloningData": { // Paire d'identifiant et de temps en minutes de jeu pour que l'objet soit cloné. L'identifiant peut être l'Index, la Catégorie ou le Nom de l'objet.
+            "Peach": 10, //Identifiant du nom
+            "136": 30, //Identifiant d'index
+            "-5": 60 //Identifiant de catégorie
+        }
+    }
+]

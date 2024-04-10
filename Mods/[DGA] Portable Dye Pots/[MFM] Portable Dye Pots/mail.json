@@ -1,0 +1,22 @@
+[
+	{
+		"Id": "CopperSun.dyepotsletter",
+        "GroupID": "CopperSun.mfmletters",
+		"Title": "At-home Dye Kit", 
+        "Text": "Salut @,^^ j'oubliais, tu voudrais peut-être teindre des choses après les avoir cousues ! Je t'ai fait un petit kit à utiliser à la maison. J'ai hâte de voir tes nouveaux vêtements !^^-Emily",
+        "Attachments": [             
+            {
+                "Type": "DGA",
+                "Name": "CopperSun.DyePots/PortableDyePots",
+                "Stack" : 1,
+            }
+        ],
+        
+        "Repeatable": false, 
+        "AutoOpen":  false, 
+
+        "MailReceived": ["emilyStones"],
+        
+    },
+	
+]

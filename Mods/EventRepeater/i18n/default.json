@@ -1,0 +1,10 @@
+{
+  "EmergencySkip.title": "Passage d'urgence",
+  "EmergencySkip.description": "Interrompt un événement comme s'il était désactivable.",
+  
+  "ShowInfo.title": "Afficher les informations",
+  "ShowInfo.description": "Active ou désactive les messages HUD.",
+
+  "NormalSkip.title": "Sauter normalement",
+  "NormalSkip.description": "Interrompt un événement et le marque comme vu temporairement.",
+}

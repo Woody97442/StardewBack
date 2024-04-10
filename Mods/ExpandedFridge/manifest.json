@@ -1,0 +1,10 @@
+{
+  "Name": "ExpandedFridge",
+  "Author": "Uwazouri",
+  "Version": "3.0.2",
+  "Description": "Cachez les mini-réfrigérateurs et accédez-y depuis le réfrigérateur de la maison.",
+  "UniqueID": "Uwazouri.ExpandedFridge",
+  "EntryDll": "ExpandedFridge.dll",
+  "MinimumApiVersion": "3.3.0",
+  "UpdateKeys": [ "Nexus:1191" ]
+}

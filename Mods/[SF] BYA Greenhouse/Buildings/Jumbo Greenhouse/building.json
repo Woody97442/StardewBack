@@ -1,0 +1,39 @@
+{
+    "Name": "Serre géante",
+    "Description": "Deux fois l'encombrement d'une serre standard",
+    "Size": {
+        "X": 14,
+        "Y": 6
+    },
+    "Id": "MonikerBandit.BYAGreenhouse.JumboGH",
+	"CollisionMap": "XXXXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+    "IndoorMap": "JumboGreenhouse",
+	"BuildCost": 100000,
+	"BuildMaterials": [
+	{
+		"ItemID": 390,
+		"Amount": 999
+	},
+	{
+		"ItemID": 335,
+		"Amount": 100
+	},
+	{
+		"ItemID": 338,
+		"Amount": 100
+	}
+	],
+	"BuildDays": 4,
+	"Builder": "Robin",
+	"HumanDoor": {
+		"X": 3,
+		"Y": 5
+	},
+	"AuxiliaryHumanDoors": [
+	{
+		"X": 10,
+		"Y": 5
+	}
+	],
+	"BuildCondition": "PLAYER_FARMING_LEVEL Current 8"
+}

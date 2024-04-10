@@ -1,0 +1,14 @@
+﻿{
+   "Name": "Wear More Rings",
+   "Author": "bcmpinc",
+   "Version": "6.4",
+   "Description": "Ajoute des emplacements d'anneaux supplémentaires à votre inventaire.",
+   "UniqueID": "bcmpinc.WearMoreRings",
+   "EntryDll": "WearMoreRings.dll",
+   "MinimumApiVersion": "3.18.0",
+   "UpdateKeys": ["Nexus:3214"],
+   "Dependencies": [{
+      "UniqueID": "bcmpinc.StardewHack",
+      "MinimumVersion": "6.0"
+   }]
+}

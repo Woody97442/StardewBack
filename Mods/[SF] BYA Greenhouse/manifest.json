@@ -1,0 +1,13 @@
+{
+  "Name": "Build You a Greenhouse",
+  "Author": "MonikerBandit",
+  "Version": "1.0.0",
+  "Description": "Un ensemble de serres simples à construire pour Solid Foundations",
+  "UniqueID": "MonikerBandit.BYAGreenhouseSF",
+  "UpdateKeys": [ "Nexus:16652" ],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.SolidFoundations",
+    "MinimumVersion": "1.14.0"
+  }
+}

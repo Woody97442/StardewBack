@@ -1,0 +1,12 @@
+{
+    "Name": "Oasis Greenhouse",
+    "Author": "DaisyNiko",
+    "Version": "1.8",
+    "Description": "une jolie serre de jardin avec cave, spa, etc.",
+    "UniqueID": "DaisyNiko.OasisGreenhouse",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": ["Nexus:3969"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,10 @@
+﻿{
+    "Name": "Content Patcher",
+    "Author": "Pathoschild",
+    "Version": "1.29.1",
+    "MinimumApiVersion": "3.18.1",
+    "Description": "Charge les packs de contenu qui modifient les données, les images et les cartes du jeu sans modifier les fichiers du jeu.",
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "EntryDll": "ContentPatcher.dll",
+    "UpdateKeys": [ "Nexus:1915" ]
+}

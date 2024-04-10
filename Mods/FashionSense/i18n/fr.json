@@ -1,0 +1,60 @@
+{
+  // Tools
+  "tools.name.hand_mirror": "Miroir à main",
+  "tools.description.hand_mirror": "Vous permet de changer votre apparence en une apparence plus vivante.",
+ 
+  // Messages
+  "messages.warning.no_content_packs": "Vous n'avez installé aucun pack de contenu Fashion Sense !",
+  
+  // Letters
+  "letters.hand_mirror": "J'ai entendu dire que quelqu'un de nouveau emménageait dans la vallée et j'ai pensé offrir un cadeau de pendaison de crémaillère.^ ^J'ai inclus mon ancien miroir à main avec cette lettre, ce qui devrait vous aider avec votre sens de la mode.^ ^Si vous jamais le perdre, vous pouvez en acheter un autre dans la boutique de Pierre. ^ -Haley %item tool HandMirror %%",
+  
+  // UI - Titles
+  "ui.fashion_sense.title.search": "Sélectionnez un pack Sens de la mode",
+  "ui.fashion_sense.title.hair": "Coiffures",
+  "ui.fashion_sense.title.accessory": "Accessoires",
+  "ui.fashion_sense.title.hat": "Chapeaux",
+  "ui.fashion_sense.title.shirt": "Chemises",
+  "ui.fashion_sense.title.pants": "Pantalons",
+  "ui.fashion_sense.title.sleeves": "Manches",
+  "ui.fashion_sense.title.sleevesAndShoes": "Manches et chaussures",
+  "ui.fashion_sense.title.shoes": "Chaussures",
+  "ui.fashion_sense.title.mask_layer": "Calque",
+
+  // UI - Outfits
+  "ui.fashion_sense.title.outfits": "Tenues",
+  "ui.fashion_sense.title.outfit_naming": "Nom de la tenue",
+  "ui.fashion_sense.create_outfit_button": "Créer une tenue",
+  "ui.fashion_sense.create_outfit_hover": "Créez une nouvelle tenue basée sur vos vêtements actuels.",
+  "ui.fashion_sense.outfit_info.save": "Enregistre vos vêtements actuels dans cette tenue.",
+  "ui.fashion_sense.outfit_info.rename": "Renommer cette tenue.",
+  "ui.fashion_sense.outfit_info.delete": "Supprimer cette tenue.",
+  "ui.fashion_sense.outfit_info.share.active": "Partage actuellement cette tenue avec d'autres fichiers de sauvegarde.",
+  "ui.fashion_sense.outfit_info.share.inactive": "Pas de partage de cette tenue avec d'autres fichiers de sauvegarde.",
+  "ui.fashion_sense.outfit_info.shared": "Partagé",
+  "ui.fashion_sense.warning.name": "Le nom de la tenue est vide ou existe déjà.",
+  "ui.fashion_sense.mask_layer.base": "Base",
+
+  // UI - Etc
+  "ui.fashion_sense.start_with_hand_mirror": "Commencer avec le miroir",
+  "ui.fashion_sense.start_with_hand_mirror.description": "Vous commencerez votre nouvelle partie avec le miroir à main dans votre inventaire.",
+  "ui.fashion_sense.color_override.shoes": "Remplacer la couleur des chaussures",
+  "ui.fashion_sense.search_button": "Rechercher un pack Fashion Sense spécifique.",
+  "ui.fashion_sense.outfit_button": "Accédez à vos tenues Fashion Sense.",
+  "ui.fashion_sense.color_copy_button": "Copier la couleur actuelle.",
+  "ui.fashion_sense.color_paste_button": "Coller la couleur enregistrée.",
+  "ui.fashion_sense.color_paste_button_empty": "Coller la couleur enregistrée (vide).",
+  "ui.fashion_sense.clear_button": "Efface l'élément Fashion Sense actuellement sélectionné.",
+  "ui.fashion_sense.random_button": "Sélectionne aléatoirement un article Fashion Sense.",
+  "ui.fashion_sense.exit_button": "Quitter le menu.",
+  "ui.fashion_sense.color_active.shoes": "Couleur de la chaussure",
+  "ui.fashion_sense.color_active.generic": "Couleur",
+  "ui.fashion_sense.color_disabled.generic": "(Ignoré)",
+  "ui.fashion_sense.color_info.hair": "Les superpositions de couleurs n'affecteront pas cette coiffure.",
+  "ui.fashion_sense.color_info.hat": "Les superpositions de couleurs n'affecteront pas ce chapeau.",
+  "ui.fashion_sense.color_info.shirt": "Les superpositions de couleurs n'affecteront pas cette chemise.",
+  "ui.fashion_sense.color_info.pants": "Les superpositions de couleurs n'affecteront pas ce pantalon.",
+  "ui.fashion_sense.color_info.accessory": "Les superpositions de couleurs n'affecteront pas cet accessoire.",
+  "ui.fashion_sense.color_info.sleeves": "Les superpositions de couleur n'affecteront pas ces manches.",
+  "ui.fashion_sense.color_info.shoes": "Les superpositions de couleurs n'affecteront pas ces chaussures."
+}

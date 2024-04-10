@@ -1,0 +1,12 @@
+{
+  "Format": "1.27.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "Auto-Petter": "388 25 771 10 787 1 335 1/Field/272/true/farming 7"
+      }
+    }
+  ]
+}

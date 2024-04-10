@@ -1,0 +1,17 @@
+﻿{
+    "Name": "Custom Crystalarium Mod",
+    "Author": "Digus",
+    "Version": "1.4.1",
+    "Description": "Ajoute un moyen de personnaliser la machine à cristalarium. Ajoute un moyen de créer des cloneurs personnalisés à l'aide de packs de contenu.",
+    "UniqueID": "DIGUS.CustomCrystalariumMod",
+    "EntryDll": "CustomCrystalariumMod.dll",
+    "MinimumApiVersion": "3.18.0",
+    "Dependencies": [
+        {
+            "UniqueID": "DIGUS.MailFrameworkMod",
+            "MinimumVersion": "1.15.0",
+            "IsRequired": false
+        }
+    ],
+    "UpdateKeys": [ "Nexus:2516" ]
+}

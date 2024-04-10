@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Mod Update Menu",
+  "Author": "Cat",
+  "Version": "1.6.0",
+  "Description": "Affiche un menu du jeu sur l'écran titre concernant les mods nécessitant des mises à jour.",
+  "UniqueID": "cat.modupdatemenu",
+  "EntryDll": "ModUpdateMenu.dll",
+  "MinimumApiVersion": "3.6.0",
+  "UpdateKeys": [ "Nexus:2536" ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "Name": "Generic Mod Config Menu",
+    "Author": "spacechase0",
+    "Version": "1.11.0",
+    "MinimumApiVersion": "3.17.0",
+    "Description": "Ajoute une interface utilisateur dans le jeu pour modifier les options de configuration des autres mods (pour les mods qui la prennent en charge).",
+    "UniqueID": "spacechase0.GenericModConfigMenu",
+    "EntryDll": "GenericModConfigMenu.dll",
+    "UpdateKeys": [ "Nexus:5098" ]
+}

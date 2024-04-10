@@ -1,0 +1,179 @@
+﻿{ 
+	"Format": "1.21",
+	"Changes": [
+	{
+		"Action": "EditData",
+		"Target": "Characters/Dialogue/Harvey",
+		"Entries": {
+
+            "Introduction": "C'est un plaisir de vous rencontrer. Je suis Harvey, le médecin local.#$e#J'effectue des contrôles réguliers et des procédures médicales pour tous les habitants de Pelican Town. C'est un travail gratifiant.#$e# J'espère que vous trouverez votre propre travail tout aussi gratifiant.$h",
+
+            "spring_1_2": "C'est le printemps. *soupir*$h#$e# Je suis reconnaissant qu'il soit de retour, même avec le pollen. Assurez-vous de rester en sécurité là-bas, d'accord ? $0",
+            "spring_1_3": "Pouvez-vous croire que le printemps est de retour ? #$b#Je ne rajeunis certainement pas. Tout le monde semble en bonne santé, cependant." ,
+            "spring_1_4": "Ah, @. Un nouveau début d'année brillante. $h#$e#J'espère que celle-ci est la plus saine à ce jour. $h" ,
+            "spring_15_1": "Les baies de saumon poussent à nouveau. $a#$e# Des choses terribles, j'aimerais qu'elles ne reviennent pas. Mes allergies les remercieraient d'avoir disparu. #a" ,
+            "spring_15_2": "Dis, @... #$b# Tu penses que tu pourrais faire quelque chose pour toutes ces ronces qui poussent là-bas ? Je ne peux pas en toucher une sans que ma gorge gonfle. $s" ,
+            "spring_12_1": "Le festival des œufs ? #$b# Oh, oui, j'ai presque oublié... J'ai été tellement occupé avec la paperasse ces derniers temps. $s" ,
+            "spring_12_2": "Oui ! Je n'ai pas oublié le Festival des œufs cette année. #$e#Honnêtement... J'adore voir le sourire de tout le monde. Je peux regarder depuis la fenêtre de la clinique. $1" ,
+            "spring_12_3": "Un autre festival des œufs cette année, bien sûr. $h#$e#Je serai là, prêt à m'occuper des petits morceaux ou des ecchymoses lors de la chasse aux œufs. $1",
+            "spring_12_4": "Je serai prêt pour un autre festival des œufs. Ne vous blessez pas pendant la recherche, d'accord ?" ,
+            "spring_23_1": "T-la danse des fleurs ?#$b# Oh, oui... #$e#Normalement, il faut un partenaire pour participer à la danse. Je, euh... #$e#C'est pas facile de demander ." ,
+            "spring_23_2": "La danse des fleurs ? #$b#Tu ne penses pas que je suis trop vieux pour danser, n'est-ce pas ?$s#$e# *soupir* J'espère que non. $s",
+            "spring_23_3": "Je me prépare pour le bal de demain.#$e# J'essaie de m'habiller bien.#$b# À en juger par votre présence précédente, vous aussi.#$e# Je devrais prendre des notes.",
+            "spring_23_4": "Comment trouves-tu toujours le courage d'inviter quelqu'un à danser ? #$e#Après tout ce temps, je ressens toujours ces sentiments anxieux. $s" ,
+            
+            "summer_10_1": "J'espère que personne ne sera blessé au Luau demain.#$e# Sand est connu pour ses entorses aux chevilles. $s" ,
+            "summer_10_2": "L'année dernière, quelqu'un a marché sur un coquillage au Luau. $s#$e# Les gens se moquent des souliers d'eau, mais ils sont utiles ! Les flotteurs aussi..." ,
+            "summer_10_3": "J'espère que la soupe sera bonne cette année. #$e#Je suis plutôt excité. $h" ,
+            "summer_27_1": "Les gelées au clair de lune reviendront à Stardew Valley demain. #$e#... C'est un si bel événement... " ,
+            "summer_27_2": "Les gelées au clair de lune seront bientôt de retour.#$e# Les regarder donne l'impression que cela a un effet réparateur sur le bonheur." ,
+            "summer_27_3": "Même après que tout le monde s'inquiète pour les méduses, elles reviennent toujours à la maison.#$e# Peut-être y a-t-il une métaphore quelque part. $s" ,
+            "summer_27_4": "Tu vas revoir les gelées, @? #$e#Même après toutes ces années passées ici, je suis toujours excité pour elles." ,
+
+            "fall_15_1":"Hmm ? Oh, oui, la foire de demain.#$e# C'est agréable de voir tout le monde à l'air frais." ,
+            "fall_15_2": "*soupir*. Je vais me lever tard ce soir après le travail.#$e# J'espère que la foire ne sera pas trop bruyante le matin." ,
+            "fall_15_3": "Faites de votre mieux à la foire de demain. #$e# Tout le monde devient plutôt compétitif." ,
+            "fall_15_4": "L'année dernière à la foire, quelqu'un a tellement mangé qu'il est tombé malade. #$e# En y repensant, je prescris beaucoup de choses la semaine suivante." ,
+            "fall_26_1": "Oh, Spirit's Eve...$s#$e# Ils ont mis ces énormes squelettes devant la clinique. $s" ,
+            "fall_26_2": "Un autre Spirit's Eve, une autre cage à squelettes. $s#$e# J'aimerais qu'ils s'en débarrassent." ,
+            "fall_26_3": "Vis-tu au festival demain ? #$e# Je pense que je serai plus calme si tu es là." ,
+            "fall_26_4": "J'ai commencé à me soucier moins de ces squelettes. #$e# C'est un bon moyen de rafraîchir mon anatomie." ,
+            "fall_28": "Assurez-vous de faire le plein de vêtements chauds. #$e# L'hiver arrive demain." ,
+
+            "winter_7_1": "Demain c'est le Festival de la Glace.#$e# Je déconseille de rester aussi longtemps dans le froid. ",
+            "winter_7_2": "Avez-vous eu froid au Festival de la glace l'année dernière, @ ? #$e# S'il vous plaît, essayez de rester au chaud et n'attrapez pas la grippe sur la glace.",
+            "winter_7_3": "Faites-moi savoir si vous avez besoin d'emprunter un manteau pour le festival de demain. #$e#Être debout et pêcher peut vous donner des engelures.$s",
+            "winter_7_4": "Fais attention demain au festival.#$e# Je ne te harcèlerai pas trop pour rester au chaud comme je le fais habituellement. $1 ",
+            "winter_24_1": "J'ai hâte d'être demain. J'ai... essayé d'avoir quelque chose de sympa... 1 $",
+            "winter_24_2": "Je n'ai toujours pas vérifié qui est mon partenaire cadeau. J'ai été tellement occupé. #$e# Je devrais le faire plus tôt que tard, n'est-ce pas ?",
+            "winter_24_3": "Tu m'as eu pour la livraison de ton cadeau ? $1#$e# Je plaisante, je sais que tu ne peux pas le dire.",
+            "winter_24_4": "Je me demande s'il est possible d'emballer une tasse de café chaud pour un cadeau demain. $1#$e# C'est tout ce que je veux vraiment, hein... Ou peut-être un modèle réduit d'avion... $1 #$e# Hmm ? Oh, rien ! $8" ,
+            "winter_28_1": "Le printemps revient bientôt. #$e# Je suis sûr que les gens seront en meilleure santé aussi. #$e# Moins de travail, mais je ne me plaindrai pas. C'est mon travail de veiller à la sécurité des gens.",
+            "winter_28_2": "Êtes-vous excité pour le printemps, @ ? $1#$e#Je suis sûr que je vous verrai courir acheter des graines. $1",
+            "winter_28_3": "Si vous avez besoin de boissons énergisantes pour faire le plein pour le printemps, faites-le moi savoir. #$e#S'il y a des extras, je serais ravi de vous les donner. $1",
+            "winter_28_4": "Tu as l'air heureux à cette période de l'année. C'est juste un sentiment. #$e#Tu n'es pas seul. Je pense que je le suis aussi.",
+
+            "spring_Mon2": "… C'est agréable de voir tout revivre. $1#$e# Tant de pollen, pourtant… $0",
+            "spring_Tue2": "Les gens ont fait le plein de médicaments contre les allergies. $0#$e# C'était un peu plus occupé ces derniers temps. $1",
+            "spring_Wed2": "Je suis désolé... J'aimerais parler, je suis tellement occupé. $0#$e# Beaucoup d'ordonnances à cette période de l'année... $2",
+            "spring_Thu2": "La semaine est presque terminée. $0#$e# Peut-être que ça veut dire que j'aurai plus de temps à passer dehors. Ça fait des merveilles pour la santé. $1",
+            "spring_Fri2": "Comment vas-tu aujourd'hui, @ ? $1#$e# Passe si tu as besoin de quoi que ce soit. $1",
+            "spring_Sun2": "Une autre journée de travail demain. $0#$e# Attention aux orties, d'accord ? $2",
+
+            "summer_Mon2": "Je préfère un temps plus frais, mais voir tout le monde en si bonne santé par temps chaud, c'est bien aussi. $1",
+            "summer_Tues2": "Toujours, @ ? $0#$e# On dirait que tu ne te fatigues jamais, même par ce temps. $0",
+            "summer_Wed2": "... ! $0#$e# Tu as vu ça, @ ? Ce n'est pas tous les jours que des avions survolent Stardew Valley ! $1#$e# Hum, désolé. Je dois retourner travailler. $2",
+            "summer_Thu2": "Cette chaleur est étouffante. $0#$e# Il n'est pas rare de voir un coup de chaleur à cette période de l'année. $2",
+            "summer_Fri2": "Bonjour, @. $1#$e# J'espère que ton agriculture se passe bien. $0",
+            "summer_Sat2": "Vous êtes-vous déjà arrêté au saloon ? $0#$e# Avez-vous essayé quelque chose qu'ils servent ? Quelque chose de sain ? $0",
+
+            "fall_Mon2": "Oh, salut, @. $0#$e# J'entends que les citrouilles poussent vite à cette période de l'année. $0",
+            "fall_Wed2": "Bonjour. $0#$e# Comment vont les affaires ? Bon, ça va. Les choses se calment avant l'hiver. $0",
+            "fall_Thu2": "*bâille...* $0#$e# Oh, @ ! Désolé, je ne t'ai pas vu là-bas. As-tu... besoin d'une ordonnance ? $4",
+            "fall_Fri2": "Les choses semblent plus calmes à cette période de l'année... $0#$e# Paisible...",
+            "fall_Sun2": "Prends soin de toi, @ ? $1#$e# Reste hydraté, même en automne. $0",
+            
+            "winter_Mon2": "La saison de la grippe est là, officiellement. $0#$e# Restez en sécurité. Je détesterais voir un fermier à la clinique pour quelque chose de méchant. $2",
+            "winter_Tue2": "Les mines sont particulièrement froides à cette période de l'année, @. $0#$e# Je vous conseille de porter plusieurs couches... $0",
+            "winter_Wed2": "... $0#$e# Désolé, @. Je suis un peu distrait par ce temps. $0",
+            "winter_Thu2": "Les jeudis sont toujours occupés pour moi. $2#$e# J'espère qu'à la ferme ça va mieux...",
+            "winter_Fri2": "Vous jouez un rôle important dans cette vallée, @. $1#$e# Bravo. $1",
+            "winter_13": "Mon anniversaire est demain... Je n'arrive pas à croire que ça fait une autre année... $2#$e# Le temps passe si vite, @. Je vais essayer de faire de cette année la meilleure à ce jour... $0",
+            "winter_13_2": "Tu t'es encore souvenu de mon anniversaire ? $1#$e# Merci, @. Tu as réchauffé ma journée.$h",
+            "winter_13_3": "Ah, salut, @. $1#$e# Merci de m'avoir souhaité un anniversaire en avance. Celui-ci sera un bon anniversaire. $1",
+            "winter_13_4": "Merci d'être passé avant mon anniversaire. #$e# Voir tous mes amis autour de la ville... Je suis reconnaissant.$1",
+            "winter4_13": "Un autre anniversaire arrive bientôt... C'est le mien, hehe. $1#$e# Euh, merci d'être venu nous dire bonjour. J'apprécie. $4",
+            "winter8_13": "Je... @... $4#$e# Votre visite avant mon anniversaire me rend vraiment reconnaissant pour vous. Je- $l#$b# Ah, merci pour le h-câlin... ! $l",
+            "winter10_13": "Oh, @! Je voulais te parler. $4#$e# Je-je t'adore... je... j'ai encore du mal à trouver les mots pour le dire. Mais je sais qu'avec toi dans ma vie , mon anniversaire sera tellement meilleur. $4#$e# Vous avez changé cette fête en une que je redoutais en une que j'anticipe... tout cela parce que je pourrai vous voir. $l",
+            
+            "spring_Mon4": "Bonjour, @. Appréciez-vous que les fleurs éclosent à nouveau ? $1#$e# Je le suis. $1",
+            "spring_Wed4": "Hmm... ? $0#$e# Pourquoi, oui, les choses ont été plutôt occupées à la clinique. Je ne peux pas dire que ça me dérange. $0",
+            "spring_Fri4": "Une autre fin pour une autre semaine. Tu devrais venir au saloon à un moment donné, @. $0#$e# Beaucoup de gens parlent de toi là-bas. De bonnes choses, naturellement. $0",
+            "spring_Sat4": "Avec la façon dont vous courez, vous n'avez pas l'air de vous détendre beaucoup. $1#$e# Allez-y doucement, d'accord ? $1",
+            
+            "summer_Tue4": "Les piqûres d'abeilles sont si courantes cette année. #$e#Je le vois souvent. Elles sont inoffensives si vous ne les dérangez pas, cependant. $s#$e#Heh, heh... 'bug ' eux...$1",
+            "summer_Thu4": "Oh, salut, @. Y a-t-il quelque chose dont tu as besoin aujourd'hui ? #$e#La clinique est toujours un endroit sûr pour se reposer si la chaleur devient trop forte. $1#$e#Nous devrions vraiment commencer à stocker de l'aloe vera , aussi.",
+            "summer_Fri4": "Même si Stardew Valley est démodée à bien des égards, je suis content qu'il y ait la climatisation. $s#$e# Et beaucoup d'eau fraîche et fraîche. Vos cultures doivent l'aimer aussi.",
+            "summer_Sun4": "Bonjour, @. $s#$e# Désolé, je suppose que c'est juste une journée un peu mélancolique pour moi aujourd'hui. Le blues du lundi arrive.",
+            
+            "fall_Mon4": "Rien n'évoque mieux l'automne que de la musique soft jazz jouée dans la clinique. #$e#Je pense que ça rend les gens plus calmes quand ils viennent se faire vacciner. $1",
+            "fall_Tue4": "Je peux voir les feuilles tomber de la fenêtre de la clinique. #$e# C'est paisible. #$b#Bien que tu y sois probablement habitué maintenant.",
+            "fall_Thu4": "Lève les yeux, @ ! $1#$e# Il y a un avion qui passe. Je me demande où ils vont ? $1",
+            "fall_Fri4": "J'ai toujours voulu sculpter une citrouille. $1#$b# Je suppose que c'est comme une intervention chirurgicale... en quelque sorte... #$e# Ah, non, ce n'est... pas bien du tout ! Je ne ferais jamais ça à un patient... vraiment ! $s",
+            "fall_Sun4": "Les dimanches d'automne sont différents des dimanches d'été. Ils sont plus confortables.$1#$b#Parfait pour les loisirs. Certaines personnes aiment construire des maquettes d'avions. $1#$b# Ou... collectionner des timbres.",
+            
+            "winter_Mon4": "La saison de la grippe est particulièrement mauvaise cette année. #$e# Tant de patients. J'envie tous les autres qui peuvent passer du temps avec leurs amis. $s",
+            "winter_Tue4": "Devez-vous pelleter beaucoup de neige à la ferme, @ ? #$e# N'hésitez pas à passer du temps à l'intérieur. Écoutez votre corps. ",
+            "winter_Wed4": "J'ai acheté de nouveaux gants chauffants. #$e# Même à la clinique, il fait très froid. J'espère qu'ils aideront. $1",
+            "winter_Fri4": "J'ai entendu dire qu'il y avait des conférences médicales dans la ville voisine. #$e# Je ne pourrais jamais quitter la communauté, cependant. Ça me manquerait beaucoup.",
+            "winter_Sat4": "En hiver, les week-ends ne sont toujours pas une pause. #$e# Pas le temps de se reposer. $s",
+
+            "spring_Mon6": "Salut, @. $1#$e# Tu passes une bonne journée ? Tu as l'air de sourire aujourd'hui. $1",
+            "spring_Wed6": "Qu'est-ce que j'ai fait ces derniers temps, demandez-vous ? $8#$e# Eh bien, j'ai trouvé un bon livre sur les expériences de cet homme en tant que pilote professionnel. $1#$e# Je sais que je suis médecin, mais... . J'aime lire des sujets variés, quand j'ai le temps...",
+            "spring_Thu6": "Mmm ? Bonjour... $0#$e# Dites, est-ce que vous cultiveriez des champignons autour de votre ferme ? J'adore les utiliser dans mes petits déjeuners. $1#$e# Votre agriculture m'a aidé à avoir des repas plus réguliers. $l ",
+            "spring_Fri6": "Bonne journée, @. $1#$e# C'est agréable de voir un visage amical dehors. Votre sourire est contagieux $1",
+            "spring_Sat6": "Ah, @, attends ! $8#$e# Tu as une petite coupure à la main, tu l'as vu ? $8#$e# Une seconde, laisse-moi juste... voilà. #$e# I porte toujours des petits pansements dans ma poche. $0",
+            
+            "summer_Tue6": "... ? Oh, @, c'est très gentil de ta part. Je te fais confiance aussi. $1#$e# ... J'y penserai toute la journée... $l#$e# Ah, tu as entendu ça ? Ah, je dois y aller, je suis de garde !",
+            "summer_Thu6": "Beaucoup de travail à faire, comme d'habitude. $2#$e# Néanmoins, vous voir illumine un peu la journée. Merci. $1",
+            "summer_Fri6": "Voudriez-vous peut-être me rejoindre pour-... $0#$e# Ah, désolé, @.... Vous êtes probablement très occupé. $0",
+            "summer_Wed6": "Prêt pour la nouvelle semaine, @ ? $1#$e# J'ai reçu un nouveau patient d'une ville voisine hier. $1",
+            
+            "fall_Mon6": "L'air sent différent à cette période de l'année. $1#$e# Il semble y avoir plus d'avions survolant la vallée... ce serait bien aussi de partir en vacances. $2",
+            "fall_Wed6": "As-tu bien dormi la nuit dernière, @ ? $0#$e# Prends soin de toi. C'est important, d'accord ? $0#$e# J'ai veillé un peu trop tard la nuit dernière pour écouter de la musique. #$e# me quelques recommandations un jour. $1",
+            "fall_Thu6": "Voilà le sourire éclatant auquel je suis habitué. $1#$e# Désolé si tu es occupé, @. Je voulais te dire bonjour. $l",
+            "fall_Fri6": "Avant votre arrivée, les gens étaient un peu plus sombres à l'automne. $0#$e# Maintenant, ils semblent excités parce qu'il y a une nouvelle vie dans la vallée. $1",
+            "fall_Sat6": "Tu ne vas pas dans les mines, n'est-ce pas, @ ? $0#$e# Je vais m'inquiéter pour toi, tu sais. $l ",
+            
+            "winter_Mon6": "Ah, il fait froid dehors. $0#$e# Tu as l'air frileux. Si tu as besoin d'emprunter ma veste un jour, demande-le. $l",
+            "winter_Thu6": "Les hivers sont solitaires. $s#$e# Avez-vous déjà ressenti cela, @ ? Je suppose que c'est normal. #$e# Le froid rend les choses plus difficiles. $s",
+            "winter_Wed6": "Ah, tu as froid. Je peux le dire à tes joues glacées. $1#$e# Je n'essaie pas de mentir à un médecin, n'est-ce pas @ ? $3",
+            "winter_Fri6": "Heehee... $l#$e# Tu as un flocon de neige sur le nez. Il va bientôt fondre, mais maintenant c'est... doux. $1",
+            "winter_Sat6": "... Si vous en avez besoin, j'ai des petits chauffe-gants à la clinique. #$e# Je ne veux pas que vos mains aient froid. $s",
+            
+            "spring_Mon8": "Ah, @. $l#$e# Je suis si heureux de te voir aujourd'hui. Tu... $l#$e# Désolé, je suis à court de mots. Je-dans le bon sens . $l#$e# Tu brilles aujourd'hui... $l",
+            "spring_Tue8": "Salut, @ ! Hmm, qu'est-ce que c'est ? $0#$e# Ah, eh bien, oui, j'ai utilisé la radio ces derniers temps. #$e# Je suis toujours aussi excité d'entendre les avions passer. $1",
+            "spring_Wed8": "Ah, le printemps... Tout prend vie. $1#$e# Merci d'avoir dit bonjour. Vous égayez vraiment mes journées. $l",
+            "spring_Thu8": "Ce matin, je me suis regardé dans le miroir et je me suis retrouvé à sourire brillamment. $1#$e# Je pense que je te le dois, @. $l#$e# La douleur de la solitude pique moins lors de tes visites. S'il vous plaît, continuez à vous arrêter.",
+            "spring_Sat8": "Salut, @ ! Vous passez bientôt à la clinique ? $1#$e# Je suis toujours excité quand la porte s'ouvre. #$e# J'espère toujours que c'est vous. $l",
+            
+            "summer_Tue8": "Tellement chaud dehors ! $s#$e# Q-quoi ! ? J'enlève ma veste ? $7#$e# C-c'est... oh mon Dieu, @ ! $7#$e# À quoi sert ce visage.. .? $l",
+            "summer_Wed8": "Bonne journée, @. $1#$e# Y a-t-il des champignons autour de moi ? Haha. $1#$e# J'aimerais partager un bon déjeuner avec toi, si jamais tu es libre.",
+            "summer_Sat8": "Mmm, bonjour. Désolé, j'ai un peu sommeil aujourd'hui. #$e# Ça doit être le temps chaud... #$e#",
+            "summer_Sun8": "J'ai terminé un nouvel avion dans ma collection, @. $1#$e# S'il vous plaît, venez le voir un jour. #$e# Vous êtes la seule personne avec qui je me sens à l'aise d'en parler. $l",
+
+            "fall_Mon8": "@, tu... $l#$e# Tu es ravissante aujourd'hui. Reste au chaud, d'accord ? $1",
+            "fall_Tue8": "Une seconde, tu as un petit... #$e# ... Là. Une petite feuille dans tes cheveux. #$e# Maintenant c'est parfait comme d'habitude. $l",
+            "fall_Wed8": "Ces derniers temps, je me soucie moins d'avoir des patients. #$e# Je suppose que c'est parce que, eh bien, euh... $7#$e# Je suppose que j'ai... pensé à d'autres choses... . 5 $",
+            "fall_Sat8": "J'ai essayé de coiffer mes cheveux un peu différemment aujourd'hui. $1#$e# Bien qu'ils se ressemblent un peu. Hmm. #$e# Ah ! Vous n'avez pas à les réparer vous-même... $ l#$e# Tes mains sont si chaudes... $1",
+            "fall_Sun8": "Merci d'être venu me voir. #$e# Quand tout est écrasant, tu calmes tout. #$e# Tu es mon médicament, mon remède, ma guérison... $l#$e# Désolé , Je me suis emporté.",
+            
+            "winter_Mon8": "Tes mains sont si froides. Puis-je ? #$e# Laisse-moi te tenir la main un instant. Les engelures sont dangereuses, @.",
+            "winter_Tue8": "Je t'ai vu errer l'autre jour. #$e# S'il te plaît, sois prudent là-bas. Ce vieux docteur s'inquiète. $s",
+            "winter_Wed8": "Des gens viennent d'autres villes à la clinique. #$e# Oh, @, c'est tellement stressant. $s#$e# Ils parlent de tous ceux qui sont malades dans leurs hôpitaux d'origine. C'est tellement triste. $s#$e# Je suis fier de ce que je fais ici. J'aime les gens, la communauté. Je les protège. $0",
+            "winter_Thu8": "Ah, qu'est-ce que c'est ? J'ai un flocon de neige sur moi ? #$e# Oh, @, t-tu n'as pas à... Euh... $7#$e# S-désolé, c'était. .. Ça ne me dérangeait pas, non, je- $7#$e# Merci... $7",
+            
+            "spring_Tue10": "Oh, @... Bonjour ! Viens ici un instant... $l#$e#Je suis désolé. Je voulais voir ton visage de près. #$e# Ce sourire... Je veux pour le protéger. $l",
+            "spring_Thu10": "Venez dire bonjour au médecin, n'est-ce pas ? $1#$b#Eh bien, si vous avez besoin d'un contrôle... faites-le moi savoir. $1#$e#J'ai toujours de la place à la clinique.. . et mes bras... pour toi.",
+            "spring_Fri10": "J'ai acheté un bon déjeuner aujourd'hui. #$b#Inspiré par vous, il y avait beaucoup de produits frais. #$e# S'il vous plaît, laissez-moi vous offrir un déjeuner un jour. Vous le méritez.#$e#Je pourrais écouter à vous parler tout l'après-midi. Tout ce que vous vouliez. 1 $ ",
+            "spring_Sun10": "Ah, @ ! Qu'est-ce que tu fais ? #$b#Une fleur dans mes cheveux. W-eh bien... ça a l'air... d'accord ? $l#$e# Merci... Tu' Je suis assez stupide. $1#$e# À quoi ressembleraient mes journées sans toi ? $1",
+            
+            "summer_Tue10": "Parfois, j'essaie de trouver le courage de te dire chaque jour à quel point tu es magnifique... $l#$b# C'est dur, mais... tu vaux la peine de vaincre mes peurs. $l",
+            "summer_Thu10": "Je pense que les autres sont au courant pour... Tu sais. $l#$b# Je ne peux pas m'empêcher de t'adorer. Je dois te protéger. #$e# Reste en sécurité, @.",
+            "summer_Fri10": "Ah, cette égratignure ! Cette ecchymose... Oh, @... #$b# Faites attention, mon cœur ne peut pas supporter l'idée que vous soyez tous blessés. #$e# S'il vous plaît, restez à la clinique. Je vais te rafistoler... chaque bosse...",
+            "summer_Sun10": "H-salut, @... Puis-je... $4#$b# @, puis-je revoir ton sourire ? Il illumine ma journée. $1#$e# Oh, merci... je.. . Je t'adore. $l#$e# Je peux retourner au travail sans stress maintenant.",
+            
+            "fall_Tue10": "J'avais l'habitude d'essayer d'imaginer une vie différente. Une ville différente, des gens différents, une clinique différente. #$b# Maintenant, je ne peux pas. Pas sans toi. $s#$e# Je veux être avec toi. Où que vous soyez, où que vous alliez.#$e#S'il vous plaît, ne me laissez pas partir. $l",
+            "fall_Thu10": "L'automne est si confortable. Je me sens heureux cette année. $1#$b# J'ai l'impression que mon travail porte ses fruits. #$e# Avec tout le monde en bonne santé, j'ai plus de temps à passer... à penser à toi. $l# $b# Ah... merci de m'avoir tenu la main. J'ai besoin de toi à côté de moi. $l",
+            "fall_Fri10": "Tu me dis si tu as besoin de quelque chose, d'accord ? #$e#Café chaud, pansements, câlins... tout est à toi. $4#$b# Envoyé avec amour par le médecin. $1",
+            "fall_Sun10": "AH... ! #$b# Tu m'as fait peur avec ce câlin. Je... ça ne me dérangeait pas, cependant. $4#$e# T-Tiens-moi plus longtemps, s'il te plaît ? $4#$e# Je me sens en sécurité dans tes bras.",
+
+            "winter_Tue10": "Mmm. Vos câlins sont si chaleureux. $l#$e# Continuez à me serrer dans vos bras, et je pense que mon cœur va exploser. $1#$e# Ah, un autre ! @, s-stop ! Vous êtes.. . Mmm... $1#$e# Peut-être ne t'arrête pas. $l",
+            "winter_Thu10": "Avez-vous remarqué quelque chose de différent à propos de la clinique ?$1#$b# Le gui. $1#$e# On dirait que ce vieil homme a quelques tours dans son sac. $1#$e# Attendez, maintenant que je vous l'ai dit.. . Peu importe. Voulez-vous m'embrasser malgré tout ? $l#$e#",
+            "winter_Fri10": "Oh, @, je voulais te parler. #$e# J'ai pensé à faire moins de quarts de travail à la clinique.#$b#Je pourrais y aller quand on a besoin de moi, ou faire des visites à domicile .#$b# Comme ça, je pourrais... euh...#$b# Je pourrais passer plus de temps avec toi.#$e# Tu... me manques quand tu n'es pas là.",
+            "winter_Sun10": "Un jour, je veux te raccompagner à la ferme, en te tenant la main. $l#$e# Il n'y a personne d'autre dont je préfère m'occuper. $l#$e#Mon cœur est fidèle à toi et à toi seul... Je le pense vraiment. $l#$e# Je suppose que tu pourrais dire que tu es le pilote de mon cœur. $l"
+
+		}
+	}]
+}
+

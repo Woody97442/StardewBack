@@ -1,0 +1,33 @@
+{
+    "Name": "Mini-serre",
+    "Description": "Une serre de taille mini avec un encombrement beaucoup plus réduit",
+    "Size": {
+        "X": 3,
+        "Y": 2
+    },
+    "Id": "MonikerBandit.BYAGreenhouse.MiniGH",
+	"CollisionMap": "XXX\nXXX\nXXX",
+    "IndoorMap": "MiniGreenhouse",
+	"BuildCost": 10000,
+	"BuildMaterials": [
+	{
+		"ItemID": 390,
+		"Amount": 250
+	},
+	{
+		"ItemID": 335,
+		"Amount": 25
+	},
+	{
+		"ItemID": 338,
+		"Amount": 25
+	}
+	],
+	"BuildDays": 2,
+	"Builder": "Robin",
+	"HumanDoor": {
+		"X": 1,
+		"Y": 1
+	},
+	"BuildCondition": "PLAYER_FARMING_LEVEL Current 4"
+}

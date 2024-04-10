@@ -1,0 +1,27 @@
+[
+    {
+        "$ItemType": "Furniture",
+        "ID": "PortableDyePots",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "dye_pots.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+                "TileProperties": {					
+					"0, 0": {
+                        "Buildings": {
+                            "Action": "DyePot"
+                        },	
+                    },
+					"0, 1": {
+                        "Buildings": {
+                            "Action": "DyePot"
+                        },	
+                    },
+                }
+            }
+        ]
+    },
+    
+]
