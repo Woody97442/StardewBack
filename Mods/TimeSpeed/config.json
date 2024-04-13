@@ -2,11 +2,11 @@
   "EnableOnFestivalDays": true,
   "LocationNotify": false,
   "SecondsPerMinute": {
-    "Indoors": 1.0,
-    "Outdoors": 1.0,
-    "Mines": 1.0,
-    "SkullCavern": 1.0,
-    "VolcanoDungeon": 1.0,
+    "Indoors": 1.4,
+    "Outdoors": 0.7,
+    "Mines": 0.7,
+    "SkullCavern": 0.9,
+    "VolcanoDungeon": 0.9,
     "ByLocationName": {}
   },
   "FreezeTime": {
@@ -21,8 +21,8 @@
   },
   "Keys": {
     "FreezeTime": "N",
-    "IncreaseTickInterval": "Subtract",
-    "DecreaseTickInterval": "Add",
+    "IncreaseTickInterval": "OemPeriod",
+    "DecreaseTickInterval": "OemComma",
     "ReloadConfig": "B"
   }
 }

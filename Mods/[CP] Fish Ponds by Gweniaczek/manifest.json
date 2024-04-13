@@ -1,13 +1,13 @@
 {
    "Name": "Fish_Pond",
    "Author": "Gweniaczek",
-   "Version": "2.0",
-   "Description": "3 options d'étangs à poissons correspondant aux bâtiments médiévaux",
+   "Version": "2.1",
+   "Description": "3 Fish Ponds options matching Medieval buildings",
    "UniqueID": "Gweniaczek.Fish_Pond",
    "UpdateKeys": ["Nexus:5301"],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",
-		"MinimumVersion": "1.23.0"
+		"MinimumVersion": "2.0.0"
 	},
 	"Dependencies": [
 		{

@@ -1,5 +1,5 @@
 ﻿{
-	"CustomCrystalarium.Letter": "Farmer @, ^ Nous levons l'interdiction de placer des fragments prismatiques à l'intérieur du cristalarium. Des études récentes ont montré qu'il est sûr et fonctionne bien. ^ Au départ, nous pensions que l'EMF du fragment interagirait négativement avec le cristalarium, et cela pourrait être nocif pour les personnes à proximité. Mais ce n'est pas le cas, cela prend juste beaucoup plus de temps pour que le fragment soit cloné. ^ Nous sommes également heureux d'annoncer qu'avec 'l'aide externe', vous pouvez régler le cristalarium pour copier une variété d'objets, pas seulement des pierres précieuses et des minéraux. Il est même possible de modifier l'heure de copie actuelle des minéraux et des pierres précieuses.^^ -Ferngill Technology Association",
-	"CustomCrystalarium.Letter.Title": "Éclat prismatique dans Crystalarium",
-	"CustomCrystalarium.Dialogue.BlockChange": "Impossible de modifier l'élément."
+	"CustomCrystalarium.Letter": "Farmer @, ^   We're lifting the ban on the placement of prismatic shard inside the crystalarium. Recent studies showed that it's safe and works fine. ^   Initially we thought that the EMF from the shard would interact negatively with the crystalarium, and it could be harmful to people near it. But that's not the case, it just make it takes a lot more time for the shard to be cloned. ^   We are also pleased to announce that with 'external help', you can tune the crystalarium to copy a variety of objects, not just gems and minerals. Its even possible to change current copy time of minerals and gems.^^   -Ferngill Technology Association",
+	"CustomCrystalarium.Letter.Title": "Prismatic Shard in Crystalarium",
+	"CustomCrystalarium.Dialogue.BlockChange": "Can't change the item."
 }

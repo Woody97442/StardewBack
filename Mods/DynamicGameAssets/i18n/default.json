@@ -1,6 +1,0 @@
-﻿{
-    "item-tooltip.added-by-mod": "Mod: {{name}}",
-    "not-enough-ingredients":  "Nécessite plus {{item}}",
-    "not-enough-ingredients-generic": "Ingrédients insuffisants pour la recette",
-    "wrong-ingredient-selected": "Aucune recette avec {{item}} comme ingrédient principal"
-}

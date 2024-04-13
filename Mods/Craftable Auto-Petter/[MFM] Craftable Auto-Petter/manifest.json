@@ -2,7 +2,7 @@
 	"Name": "[MFM] Craftable Auto-Petter",
 	"Author": "cosplaywrite",
 	"Version": "1.0.1",
-	"Description": "Permet d'envoyer le plan de fabrication au joueur.",
+	"Description": "Allows the crafting blueprint to be mailed to the player.",
 	"UniqueID": "cosplaywrite.CraftableAutoPetterForMailFrameworkMod",
 	"MinimumApiVersion": "3.8.0",
 	"UpdateKeys": ["Nexus: 13170"],

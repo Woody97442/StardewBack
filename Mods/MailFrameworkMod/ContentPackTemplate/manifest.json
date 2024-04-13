@@ -2,7 +2,7 @@
 	"Name": "[MFM] Name of you pack",
 	"Author": "Your name",
 	"Version": "1.0.0",
-	"Description": "Ajoute des mails personnalisés pour mon mod.",
+	"Description": "Adds custom mails for my mod.",
 	"UniqueID": "YourName.YouPackNameForMailFrameworkMod",
 	"MinimumApiVersion": "3.8.0",
 	"UpdateKeys": [],
@@ -13,6 +13,6 @@
 	],
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.MailFrameworkMod",
-        "MinimumVersion": "1.10.1"
+        "MinimumVersion": "1.16.0-alpha"
 	}
 }

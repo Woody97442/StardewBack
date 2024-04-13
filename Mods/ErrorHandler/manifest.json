@@ -1,9 +1,0 @@
-{
-    "Name": "Error Handler",
-    "Author": "SMAPI",
-    "Version": "3.18.3",
-    "Description": "Gère certaines erreurs vanille courantes pour enregistrer des informations plus utiles ou éviter de casser le jeu.",
-    "UniqueID": "SMAPI.ErrorHandler",
-    "EntryDll": "ErrorHandler.dll",
-    "MinimumApiVersion": "3.18.3"
-}

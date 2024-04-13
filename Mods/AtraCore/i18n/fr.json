@@ -1,8 +1,0 @@
-﻿{
-  "mod.description": "Un emplacement centralisé pour une partie du code d'assistance d'atra.",
-  // For GMCM
-  "IllFormatedConfig": "Le fichier de configuration semble mal formaté, utilisant la valeur par défaut. Veuillez utiliser le menu de configuration générique du mod pour le configurer.",
-  
-  "api-not-found": "{{APIID}} introuvable, intégration désactivée.",
-  "api-too-old": "Veuillez mettre à jour {{apiName}}({{APIID}}) vers au moins la version {{minversion}}. Version actuelle {{currentversion}}. Intégration désactivée."
-}

@@ -1,0 +1,11 @@
+{
+  "Name": "NuoMiXiong's Hairstyles",
+  "Author": "NuoMiXiong",
+  "Version": "1.0.0",
+  "Description": " 发型",
+  "UniqueID": "NuoMiXiongonehairstyles",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "3.0.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Novan's Seasonal Grass Path (FIXED 1.6)",
+   "Author": "cathtail",
+   "Version": "1.0.2",
+   "Description": "Replaces your Gravel Path With Grass Path For Every Season!",
+   "UniqueID": "cathtail.GrassPath",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:7412" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

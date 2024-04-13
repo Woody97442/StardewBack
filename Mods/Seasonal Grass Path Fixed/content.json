@@ -1,0 +1,151 @@
+{
+  "Format": "1.3",
+  "Changes": [
+  
+	   // Grass Path
+	   {  "Action": "Load",
+	   "Target": "TerrainFeatures/Flooring",
+	   "FromFile": "assets/flooring_{{season}}.png",
+	   },
+	   {  "Action": "Load",
+	   "Target": "TerrainFeatures/Flooring_winter",
+	   "FromFile": "assets/flooring_winter.png",
+	   },
+ {
+	"Action": "EditImage",
+	"Target": "Maps/springobjects",
+	"FromFile": "assets/Flooring_{{season}}.png",
+		"FromArea": { "X": 64, "Y": 64, "Width": 16, "Height": 16 },
+		"ToArea": { "X": 368, "Y": 256, "Width": 16, "Height": 16 },
+	},
+          //portuguese
+       {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Caminho de Grama",
+                    "5": "Um caminho acolhedor, abraçado pela natureza em constante mudança."
+                }
+            },
+            "When": {
+                "language": "pt"
+            }
+        }, 
+
+           //english
+       {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Grass Path",
+                    "5": "A welcoming path embraced by nature in constant change."
+                }
+            },
+            "When": {
+                "language": "en"
+            }
+        },
+
+            //spanish
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Camino de Césped",
+                    "5": "Un camino acogedor abrazado por la naturaleza en constante cambio."
+                }
+            },
+            "When": {
+                "language": "es"
+            }
+        },
+
+           //italian
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Sentiero in erba",
+                    "5": "Un sentiero accogliente abbracciato dalla natura in costante cambiamento."
+                }
+            },
+            "When": {
+                "language": "it"
+            }
+        },
+             //german
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Grasweg",
+                    "5": "Ein einladender Weg, umarmt von der Natur im ständigen Wandel."
+                }
+            },
+            "When": {
+                "language": "de"
+            }
+        },
+             //hungarian
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Fűösvény",
+                    "5": "Egy üdvözlő út, melyet állandóan változó természet ölel körül."
+                }
+            },
+            "When": {
+                "language": "hu"
+            }
+        },
+                 //french
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Chemin de Gazon",
+                    "5": "Un chemin accueillant, enveloppé par une nature en constante évolution."
+                }
+            },
+            "When": {
+                "language": "fr"
+            }
+        },
+            //russian
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "Тропинка из травы",
+                    "5": "Приветливая тропинка, обнятая постоянно меняющейся природой."
+                }
+            },
+            "When": {
+                "language": "ru"
+            }
+        },
+                //chinese
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "407": {
+                    "4": "草径",
+                    "5": "一个受到不断变化自然环境拥抱的欢迎之路。"
+                }
+            },
+            "When": {
+                "language": "zh"
+            }
+        },
+    ]
+}

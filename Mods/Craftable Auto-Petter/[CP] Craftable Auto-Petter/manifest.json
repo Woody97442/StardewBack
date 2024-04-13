@@ -2,7 +2,7 @@
   "Name": "Craftable Auto-Petter",
   "Author": "cosplaywrite",
   "Version": "1.0.1",
-  "Description": "Ajoute une recette d'artisanat pour le petter automatique à votre menu d'artisanat.",
+  "Description": "Adds a crafing recipe for the auto-petter to your crafting menu.",
   "UniqueID": "cosplaywrite.CraftableAutoPetter",
   "UpdateKeys": [ "Nexus: 13170"],
   "ContentPackFor": {

@@ -2,7 +2,7 @@
     "Name": "Oasis Greenhouse",
     "Author": "DaisyNiko",
     "Version": "1.8",
-    "Description": "une jolie serre de jardin avec cave, spa, etc.",
+    "Description": "a pretty garden greenhouse with cellar, spa, and more.",
     "UniqueID": "DaisyNiko.OasisGreenhouse",
     "MinimumApiVersion": "2.11.0",
     "UpdateKeys": ["Nexus:3969"],

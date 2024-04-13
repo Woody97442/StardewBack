@@ -1,5 +1,5 @@
 {
-	"Format": "1.23",
+	"Format": "2.0.0",
 
 	"ConfigSchema": {
 		"FishPoption":{"AllowValues": "1, 2, 3",
@@ -7,15 +7,15 @@
 					
 		"SpringPetals":{"AllowValues": "true, false",
 					"Default": "true",
-					"Description": "Ajoute des pétales de fleurs au printemps quand il y a du vent" },
+					"Description": "Adds flower petals in spring when it's windy" },
 					
 		"FallColor":{"AllowValues": "1, 2",
 					"Default": "1",
-					"Description": "Pour correspondre aux mods de recoloration qui ont cette option -> vert (1) orange (2)" },
+					"Description": "To match recolor mods that have that option -> green(1) orange(2)" },
 		"RecolourOverwrite":{"AllowValues": "Vanilla, DNEarthyRecolour, Eemie's, FoliageRedone, Starblue, VibrantPastoral, WittilyNamed",
 					"AllowBlank": true,
 					"Default": "",
-					"Description": "Si vous souhaitez modifier manuellement la palette de recoloration" },
+					"Description": "If you want to manually change recolor palette" },
 	},
 	
 	
@@ -95,6 +95,15 @@
         "Target": "Buildings/Fish Pond",
         "FromFile": "assets/{{Recolour}}/{{FishPoption}}.png",
 			"When": { "Pollen": "true" },
+		},
+		{
+		"LogName": "FPond GB",
+        "Action": "EditImage",
+			"PatchMode": "Overlay",
+        "Target": "Buildings/Fish Pond",
+        "FromFile": "assets/FPond GB.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 30, "Height": 16 },
+			"ToArea": { "X": 130, "Y": 160, "Width": 30, "Height": 16 },
 		},
      ]
 }

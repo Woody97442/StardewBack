@@ -1,0 +1,10 @@
+{
+  "ModEnabled": true,
+  "ProtectOverwrite": true,
+  "MoveCropWithoutTile": true,
+  "MoveBuilding": true,
+  "Sound": "shwip",
+  "ModKey": "LeftAlt",
+  "MoveKey": "MouseLeft",
+  "CancelKey": "Escape"
+}

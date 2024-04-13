@@ -2,9 +2,9 @@
 	"Name": "[CCRM] Name of your pack",
 	"Author": "Your name",
 	"Version": "1.0.0",
-	"Description": "Ajoute la configuration de mes données de clonage au Custom Crystalarium Mod.",
+	"Description": "Adds configuration of my cloner data to Custom Crystalarium Mod.",
 	"UniqueID": "YourName.YouPackNameForCustomCrystalariumMod",
-	"MinimumApiVersion": "3.18.0",
+	"MinimumApiVersion": "4.0.0",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{

@@ -3,7 +3,7 @@
     "Author": "Sexynes",
     "Version": "1.0.0",
     "MinimumApiVersion": "3.6.0",
-    "Description": "Ajoute des recettes pour le foin.",
+    "Description": "Adds recipes for hay.",
     "UniqueID": "Sexynes.CraftableHay",
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher",
